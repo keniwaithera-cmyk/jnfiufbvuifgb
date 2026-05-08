@@ -1,0 +1,486 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.material:material:1.12.0] /home/emobilis/.gradle/caches/transforms-4/67cef2770ff944a517f45419f4e7b855/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/emobilis/.gradle/caches/transforms-4/2bcd30cd47fb0bbaf12beffe9e2f6ea3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [io.coil-kt:coil-compose:2.6.0] /home/emobilis/.gradle/caches/transforms-4/3354854419aa0cb6bc9e8d5e889e15f5/transformed/jetified-coil-compose-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] /home/emobilis/.gradle/caches/transforms-4/1ac8d622e058b7821216b6057bb41a85/transformed/jetified-coil-compose-base-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.6.0] /home/emobilis/.gradle/caches/transforms-4/c88d932cf60cd6a64d3b3494fde6b927/transformed/jetified-coil-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.6.0] /home/emobilis/.gradle/caches/transforms-4/2273bdc2a72b8ac3934b696e513681af/transformed/jetified-coil-base-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/emobilis/.gradle/caches/transforms-4/153296ca217d63a6cc0e99fe1754a797/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/emobilis/.gradle/caches/transforms-4/3ace096472ec922f3d28926c09b81178/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/emobilis/.gradle/caches/transforms-4/b6cb94941af3b0a1327e15e326cf80a7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/emobilis/.gradle/caches/transforms-4/d338a91042d20a6f44cc724337d67b97/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /home/emobilis/.gradle/caches/transforms-4/7a58c68fc67f23f74247a45205e49f69/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/emobilis/.gradle/caches/transforms-4/b6b83fefda3d771392f032a7735f0055/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/emobilis/.gradle/caches/transforms-4/ec8acdb02559a2bf287ee17857f52cbc/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/emobilis/.gradle/caches/transforms-4/6da0a9bcdce3ad741e8a9e9d40254dce/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/emobilis/.gradle/caches/transforms-4/cb240c92ea0d189537036555da9add2c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] /home/emobilis/.gradle/caches/transforms-4/71131b196889130209175cd16214db02/transformed/navigation-common-2.7.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /home/emobilis/.gradle/caches/transforms-4/7f60a26d7af21d43510870cdd57d5b12/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /home/emobilis/.gradle/caches/transforms-4/cc8a158c8303c1bb5ee4037614a32ba5/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /home/emobilis/.gradle/caches/transforms-4/f7cc9893d9f0adc8acc68fb5e2424c91/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /home/emobilis/.gradle/caches/transforms-4/3e9633c880c4132eefa10427fd352372/transformed/jetified-navigation-compose-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /home/emobilis/.gradle/caches/transforms-4/da2c70f9c9b07990b3b685a2d54df817/transformed/jetified-material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/emobilis/.gradle/caches/transforms-4/6b9f58e836ac28e817115545b78ce934/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/emobilis/.gradle/caches/transforms-4/ccc61a442e9857817a3fd9a6b857bb82/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/109460813ab37fdf8dd5749e92c1301b/transformed/jetified-material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/9a08babb40c9babc3ffaf3705ad51ef3/transformed/jetified-material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/106faa189d01222903515e0dc2af9b55/transformed/jetified-material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/cfb7e816a7b82534f81f2bcbdc9b5613/transformed/jetified-material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/emobilis/.gradle/caches/transforms-4/f650854fb1eaad4026002303e9ce9046/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/emobilis/.gradle/caches/transforms-4/09dc382aaf4f7cfeefdefb82bfebd98c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/emobilis/.gradle/caches/transforms-4/0171d6cc48c82df4fb3510d166100764/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/e2b2b86d0db0ac5dadd84776b81398e3/transformed/jetified-animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/d614b88511fde0ce179bb1006c4e3b56/transformed/jetified-animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/201624f28e67cc7881c5258cec8e372c/transformed/jetified-foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/2ec71bc43afd612bbabad78d8695ba9b/transformed/jetified-foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/ffaf781a63999cca5e0df8d781282595/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/27b2987c12b9448f86628a328f9327f9/transformed/jetified-ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/91c14c0298133983505c64970949a376/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/d4aa1606d6fcb05c3cf4606ade460782/transformed/jetified-ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/6138f463d87c97491746da7ef535957c/transformed/jetified-ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/emobilis/.gradle/caches/transforms-4/745e2c9ecddad8d02ebd65ae7987049d/transformed/jetified-ui-test-manifest-1.6.8/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/9a423d59d2a74739c4cc2dff7e77165d/transformed/jetified-ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/07e9f163be8ba22b354cf7c41ff32637/transformed/jetified-ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/emobilis/.gradle/caches/transforms-4/2a909769a920f417a614da6a7413906f/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c871ee6f61a26a24eff9b9b26ab1401/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c4f2d171ecc92c94cc51b2b6c9e4979/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/emobilis/.gradle/caches/transforms-4/6f5ab50b4cb320b0c9b2f400681b0e2a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/emobilis/.gradle/caches/transforms-4/91a05755572bd4ccdc9c17bdb8dc17c3/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/emobilis/.gradle/caches/transforms-4/e123ead1b603b8675647190e9aebf2a3/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/emobilis/.gradle/caches/transforms-4/34f9ba647674cda17bd3a33ce9738a19/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/emobilis/.gradle/caches/transforms-4/02f554ed83b6d91e21cf9f2479273fe8/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/emobilis/.gradle/caches/transforms-4/11a41a7ee3211cb3bb89fc38aa8e660b/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/emobilis/.gradle/caches/transforms-4/78fa4db962a37ab116188d9fa282367a/transformed/jetified-lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /home/emobilis/.gradle/caches/transforms-4/dfcbe0ef3a6f37a331a8b307498e73dd/transformed/jetified-lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /home/emobilis/.gradle/caches/transforms-4/35d9c75b240cfecd428c5adc908eb367/transformed/jetified-accompanist-drawablepainter-0.32.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/cee761d08510c1b633a36d5a7dca2cd5/transformed/jetified-ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/bf0c746b193e7d8bc6304fe1266ffbe6/transformed/jetified-ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.9.0] /home/emobilis/.gradle/caches/transforms-4/db71cf02c2a2b79d7209344fa294bef6/transformed/jetified-activity-compose-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] /home/emobilis/.gradle/caches/transforms-4/9e0858dc1db4b32f0c28df8f2d6ea0dd/transformed/jetified-activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.0] /home/emobilis/.gradle/caches/transforms-4/b27fa33da2ae7f8563b7348d9b195098/transformed/jetified-activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/emobilis/.gradle/caches/transforms-4/55627558c6388562e0f0f63fb825a2e9/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/emobilis/.gradle/caches/transforms-4/bf4abb298b6cf3742f30ab3d993ba655/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/emobilis/.gradle/caches/transforms-4/ec18b325602081269c8b08882592817d/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/emobilis/.gradle/caches/transforms-4/17a97d92a878e5d1b02e56edf405df01/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/emobilis/.gradle/caches/transforms-4/b028a3163d42823dd3b5eda79cd1d591/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] /home/emobilis/.gradle/caches/transforms-4/b6e1aaa15c3cbc80c4dc20d606ba0b9c/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/emobilis/.gradle/caches/transforms-4/b019a15be3d5c704c1a12f8b54501909/transformed/jetified-core-splashscreen-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/emobilis/.gradle/caches/transforms-4/030c780a3c389d198b1acc4f7d1735b8/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/7072e2af142c5f1c16ee170b7395139e/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/b975e90584295f8c4478355306ee23f3/transformed/jetified-runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/emobilis/.gradle/caches/transforms-4/5ca47c19838ec1a6f8541108e6ce33f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/emobilis/.gradle/caches/transforms-4/2fdf906a3acd65abea960285bdbdc884/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/emobilis/.gradle/caches/transforms-4/2b9ef1ee65b7f8a756d625914504557e/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/emobilis/.gradle/caches/transforms-4/707f944c7f93f8ec7645ea0147e6c837/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/emobilis/.gradle/caches/transforms-4/f2f237b05245dcc81aacdf01f6d6b3f2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-4/1c73dd22de73dd8f7918bea8d03454bf/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/emobilis/.gradle/caches/transforms-4/5caf5d8b1d007278a140029e892058e3/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/emobilis/.gradle/caches/transforms-4/eebd33d27a2b733fe708694078a3899e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/emobilis/.gradle/caches/transforms-4/6b9f5f848845929c9345b24c5c6aee7f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/emobilis/.gradle/caches/transforms-4/420e73a77d5dd93d815487f1499ce6cf/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /home/emobilis/.gradle/caches/transforms-4/b96728c9560929d2e01742b3a20de49b/transformed/exifinterface-1.3.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/emobilis/.gradle/caches/transforms-4/5d232b8036eb06b7d24449b0a0c26b9d/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:6:22-66
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:7:5-72
+MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:24:5-72
+MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:7:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:8:5-74
+MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
+MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:8:22-71
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:10:5-107
+	android:maxSdkVersion
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:10:78-104
+	android:name
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:11:22-73
+uses-feature#android.hardware.fingerprint
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:12:5-90
+	android:required
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:12:63-87
+	android:name
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:12:19-62
+application
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:14:5-35:19
+INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:14:5-35:19
+MERGED from [com.google.android.material:material:1.12.0] /home/emobilis/.gradle/caches/transforms-4/67cef2770ff944a517f45419f4e7b855/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /home/emobilis/.gradle/caches/transforms-4/67cef2770ff944a517f45419f4e7b855/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/emobilis/.gradle/caches/transforms-4/2bcd30cd47fb0bbaf12beffe9e2f6ea3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/emobilis/.gradle/caches/transforms-4/2bcd30cd47fb0bbaf12beffe9e2f6ea3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/emobilis/.gradle/caches/transforms-4/745e2c9ecddad8d02ebd65ae7987049d/transformed/jetified-ui-test-manifest-1.6.8/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/emobilis/.gradle/caches/transforms-4/745e2c9ecddad8d02ebd65ae7987049d/transformed/jetified-ui-test-manifest-1.6.8/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c871ee6f61a26a24eff9b9b26ab1401/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c871ee6f61a26a24eff9b9b26ab1401/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/bf0c746b193e7d8bc6304fe1266ffbe6/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/bf0c746b193e7d8bc6304fe1266ffbe6/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/emobilis/.gradle/caches/transforms-4/5ca47c19838ec1a6f8541108e6ce33f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/emobilis/.gradle/caches/transforms-4/5ca47c19838ec1a6f8541108e6ce33f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-4/1c73dd22de73dd8f7918bea8d03454bf/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-4/1c73dd22de73dd8f7918bea8d03454bf/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:21:9-49
+	android:usesCleartextTraffic
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:20:9-44
+activity#com.barakaplaza.rentmanager.MainActivity
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:23:9-33:20
+	android:label
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:26:13-45
+	android:windowSoftInputMode
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:28:13-55
+	android:exported
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:27:13-60
+	android:name
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] /home/emobilis/.gradle/caches/transforms-4/67cef2770ff944a517f45419f4e7b855/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/emobilis/.gradle/caches/transforms-4/67cef2770ff944a517f45419f4e7b855/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/emobilis/.gradle/caches/transforms-4/2bcd30cd47fb0bbaf12beffe9e2f6ea3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/emobilis/.gradle/caches/transforms-4/2bcd30cd47fb0bbaf12beffe9e2f6ea3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:2.6.0] /home/emobilis/.gradle/caches/transforms-4/3354854419aa0cb6bc9e8d5e889e15f5/transformed/jetified-coil-compose-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.6.0] /home/emobilis/.gradle/caches/transforms-4/3354854419aa0cb6bc9e8d5e889e15f5/transformed/jetified-coil-compose-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] /home/emobilis/.gradle/caches/transforms-4/1ac8d622e058b7821216b6057bb41a85/transformed/jetified-coil-compose-base-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] /home/emobilis/.gradle/caches/transforms-4/1ac8d622e058b7821216b6057bb41a85/transformed/jetified-coil-compose-base-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.6.0] /home/emobilis/.gradle/caches/transforms-4/c88d932cf60cd6a64d3b3494fde6b927/transformed/jetified-coil-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.6.0] /home/emobilis/.gradle/caches/transforms-4/c88d932cf60cd6a64d3b3494fde6b927/transformed/jetified-coil-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.6.0] /home/emobilis/.gradle/caches/transforms-4/2273bdc2a72b8ac3934b696e513681af/transformed/jetified-coil-base-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.6.0] /home/emobilis/.gradle/caches/transforms-4/2273bdc2a72b8ac3934b696e513681af/transformed/jetified-coil-base-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/emobilis/.gradle/caches/transforms-4/153296ca217d63a6cc0e99fe1754a797/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/emobilis/.gradle/caches/transforms-4/153296ca217d63a6cc0e99fe1754a797/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/emobilis/.gradle/caches/transforms-4/3ace096472ec922f3d28926c09b81178/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/emobilis/.gradle/caches/transforms-4/3ace096472ec922f3d28926c09b81178/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/emobilis/.gradle/caches/transforms-4/b6cb94941af3b0a1327e15e326cf80a7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/emobilis/.gradle/caches/transforms-4/b6cb94941af3b0a1327e15e326cf80a7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/emobilis/.gradle/caches/transforms-4/d338a91042d20a6f44cc724337d67b97/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/emobilis/.gradle/caches/transforms-4/d338a91042d20a6f44cc724337d67b97/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /home/emobilis/.gradle/caches/transforms-4/7a58c68fc67f23f74247a45205e49f69/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/emobilis/.gradle/caches/transforms-4/7a58c68fc67f23f74247a45205e49f69/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/emobilis/.gradle/caches/transforms-4/b6b83fefda3d771392f032a7735f0055/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/emobilis/.gradle/caches/transforms-4/b6b83fefda3d771392f032a7735f0055/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/emobilis/.gradle/caches/transforms-4/ec8acdb02559a2bf287ee17857f52cbc/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/emobilis/.gradle/caches/transforms-4/ec8acdb02559a2bf287ee17857f52cbc/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/emobilis/.gradle/caches/transforms-4/6da0a9bcdce3ad741e8a9e9d40254dce/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/emobilis/.gradle/caches/transforms-4/6da0a9bcdce3ad741e8a9e9d40254dce/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/emobilis/.gradle/caches/transforms-4/cb240c92ea0d189537036555da9add2c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/emobilis/.gradle/caches/transforms-4/cb240c92ea0d189537036555da9add2c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.7.7] /home/emobilis/.gradle/caches/transforms-4/71131b196889130209175cd16214db02/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] /home/emobilis/.gradle/caches/transforms-4/71131b196889130209175cd16214db02/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /home/emobilis/.gradle/caches/transforms-4/7f60a26d7af21d43510870cdd57d5b12/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /home/emobilis/.gradle/caches/transforms-4/7f60a26d7af21d43510870cdd57d5b12/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /home/emobilis/.gradle/caches/transforms-4/cc8a158c8303c1bb5ee4037614a32ba5/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /home/emobilis/.gradle/caches/transforms-4/cc8a158c8303c1bb5ee4037614a32ba5/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /home/emobilis/.gradle/caches/transforms-4/f7cc9893d9f0adc8acc68fb5e2424c91/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /home/emobilis/.gradle/caches/transforms-4/f7cc9893d9f0adc8acc68fb5e2424c91/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /home/emobilis/.gradle/caches/transforms-4/3e9633c880c4132eefa10427fd352372/transformed/jetified-navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /home/emobilis/.gradle/caches/transforms-4/3e9633c880c4132eefa10427fd352372/transformed/jetified-navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /home/emobilis/.gradle/caches/transforms-4/da2c70f9c9b07990b3b685a2d54df817/transformed/jetified-material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /home/emobilis/.gradle/caches/transforms-4/da2c70f9c9b07990b3b685a2d54df817/transformed/jetified-material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/emobilis/.gradle/caches/transforms-4/6b9f58e836ac28e817115545b78ce934/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/emobilis/.gradle/caches/transforms-4/6b9f58e836ac28e817115545b78ce934/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /home/emobilis/.gradle/caches/transforms-4/ccc61a442e9857817a3fd9a6b857bb82/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/emobilis/.gradle/caches/transforms-4/ccc61a442e9857817a3fd9a6b857bb82/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/109460813ab37fdf8dd5749e92c1301b/transformed/jetified-material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/109460813ab37fdf8dd5749e92c1301b/transformed/jetified-material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/9a08babb40c9babc3ffaf3705ad51ef3/transformed/jetified-material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/9a08babb40c9babc3ffaf3705ad51ef3/transformed/jetified-material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/106faa189d01222903515e0dc2af9b55/transformed/jetified-material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/106faa189d01222903515e0dc2af9b55/transformed/jetified-material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/cfb7e816a7b82534f81f2bcbdc9b5613/transformed/jetified-material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/cfb7e816a7b82534f81f2bcbdc9b5613/transformed/jetified-material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/emobilis/.gradle/caches/transforms-4/f650854fb1eaad4026002303e9ce9046/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/emobilis/.gradle/caches/transforms-4/f650854fb1eaad4026002303e9ce9046/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/emobilis/.gradle/caches/transforms-4/09dc382aaf4f7cfeefdefb82bfebd98c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/emobilis/.gradle/caches/transforms-4/09dc382aaf4f7cfeefdefb82bfebd98c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/emobilis/.gradle/caches/transforms-4/0171d6cc48c82df4fb3510d166100764/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/emobilis/.gradle/caches/transforms-4/0171d6cc48c82df4fb3510d166100764/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/e2b2b86d0db0ac5dadd84776b81398e3/transformed/jetified-animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/e2b2b86d0db0ac5dadd84776b81398e3/transformed/jetified-animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/d614b88511fde0ce179bb1006c4e3b56/transformed/jetified-animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/d614b88511fde0ce179bb1006c4e3b56/transformed/jetified-animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/201624f28e67cc7881c5258cec8e372c/transformed/jetified-foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/201624f28e67cc7881c5258cec8e372c/transformed/jetified-foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/2ec71bc43afd612bbabad78d8695ba9b/transformed/jetified-foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/2ec71bc43afd612bbabad78d8695ba9b/transformed/jetified-foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/ffaf781a63999cca5e0df8d781282595/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/ffaf781a63999cca5e0df8d781282595/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/27b2987c12b9448f86628a328f9327f9/transformed/jetified-ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/27b2987c12b9448f86628a328f9327f9/transformed/jetified-ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/91c14c0298133983505c64970949a376/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/91c14c0298133983505c64970949a376/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/d4aa1606d6fcb05c3cf4606ade460782/transformed/jetified-ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/d4aa1606d6fcb05c3cf4606ade460782/transformed/jetified-ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/6138f463d87c97491746da7ef535957c/transformed/jetified-ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/6138f463d87c97491746da7ef535957c/transformed/jetified-ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/emobilis/.gradle/caches/transforms-4/745e2c9ecddad8d02ebd65ae7987049d/transformed/jetified-ui-test-manifest-1.6.8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/emobilis/.gradle/caches/transforms-4/745e2c9ecddad8d02ebd65ae7987049d/transformed/jetified-ui-test-manifest-1.6.8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/9a423d59d2a74739c4cc2dff7e77165d/transformed/jetified-ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/9a423d59d2a74739c4cc2dff7e77165d/transformed/jetified-ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/07e9f163be8ba22b354cf7c41ff32637/transformed/jetified-ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/07e9f163be8ba22b354cf7c41ff32637/transformed/jetified-ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/emobilis/.gradle/caches/transforms-4/2a909769a920f417a614da6a7413906f/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/emobilis/.gradle/caches/transforms-4/2a909769a920f417a614da6a7413906f/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c871ee6f61a26a24eff9b9b26ab1401/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c871ee6f61a26a24eff9b9b26ab1401/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c4f2d171ecc92c94cc51b2b6c9e4979/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c4f2d171ecc92c94cc51b2b6c9e4979/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/emobilis/.gradle/caches/transforms-4/6f5ab50b4cb320b0c9b2f400681b0e2a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/emobilis/.gradle/caches/transforms-4/6f5ab50b4cb320b0c9b2f400681b0e2a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/emobilis/.gradle/caches/transforms-4/91a05755572bd4ccdc9c17bdb8dc17c3/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/emobilis/.gradle/caches/transforms-4/91a05755572bd4ccdc9c17bdb8dc17c3/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/emobilis/.gradle/caches/transforms-4/e123ead1b603b8675647190e9aebf2a3/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/emobilis/.gradle/caches/transforms-4/e123ead1b603b8675647190e9aebf2a3/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/emobilis/.gradle/caches/transforms-4/34f9ba647674cda17bd3a33ce9738a19/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/emobilis/.gradle/caches/transforms-4/34f9ba647674cda17bd3a33ce9738a19/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/emobilis/.gradle/caches/transforms-4/02f554ed83b6d91e21cf9f2479273fe8/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/emobilis/.gradle/caches/transforms-4/02f554ed83b6d91e21cf9f2479273fe8/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/emobilis/.gradle/caches/transforms-4/11a41a7ee3211cb3bb89fc38aa8e660b/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/emobilis/.gradle/caches/transforms-4/11a41a7ee3211cb3bb89fc38aa8e660b/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/emobilis/.gradle/caches/transforms-4/78fa4db962a37ab116188d9fa282367a/transformed/jetified-lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/emobilis/.gradle/caches/transforms-4/78fa4db962a37ab116188d9fa282367a/transformed/jetified-lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /home/emobilis/.gradle/caches/transforms-4/dfcbe0ef3a6f37a331a8b307498e73dd/transformed/jetified-lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /home/emobilis/.gradle/caches/transforms-4/dfcbe0ef3a6f37a331a8b307498e73dd/transformed/jetified-lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /home/emobilis/.gradle/caches/transforms-4/35d9c75b240cfecd428c5adc908eb367/transformed/jetified-accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /home/emobilis/.gradle/caches/transforms-4/35d9c75b240cfecd428c5adc908eb367/transformed/jetified-accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/cee761d08510c1b633a36d5a7dca2cd5/transformed/jetified-ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/cee761d08510c1b633a36d5a7dca2cd5/transformed/jetified-ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/bf0c746b193e7d8bc6304fe1266ffbe6/transformed/jetified-ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/bf0c746b193e7d8bc6304fe1266ffbe6/transformed/jetified-ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /home/emobilis/.gradle/caches/transforms-4/db71cf02c2a2b79d7209344fa294bef6/transformed/jetified-activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /home/emobilis/.gradle/caches/transforms-4/db71cf02c2a2b79d7209344fa294bef6/transformed/jetified-activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /home/emobilis/.gradle/caches/transforms-4/9e0858dc1db4b32f0c28df8f2d6ea0dd/transformed/jetified-activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /home/emobilis/.gradle/caches/transforms-4/9e0858dc1db4b32f0c28df8f2d6ea0dd/transformed/jetified-activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.0] /home/emobilis/.gradle/caches/transforms-4/b27fa33da2ae7f8563b7348d9b195098/transformed/jetified-activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /home/emobilis/.gradle/caches/transforms-4/b27fa33da2ae7f8563b7348d9b195098/transformed/jetified-activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/emobilis/.gradle/caches/transforms-4/55627558c6388562e0f0f63fb825a2e9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/emobilis/.gradle/caches/transforms-4/55627558c6388562e0f0f63fb825a2e9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/emobilis/.gradle/caches/transforms-4/bf4abb298b6cf3742f30ab3d993ba655/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/emobilis/.gradle/caches/transforms-4/bf4abb298b6cf3742f30ab3d993ba655/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/emobilis/.gradle/caches/transforms-4/ec18b325602081269c8b08882592817d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/emobilis/.gradle/caches/transforms-4/ec18b325602081269c8b08882592817d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/emobilis/.gradle/caches/transforms-4/17a97d92a878e5d1b02e56edf405df01/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/emobilis/.gradle/caches/transforms-4/17a97d92a878e5d1b02e56edf405df01/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/emobilis/.gradle/caches/transforms-4/b028a3163d42823dd3b5eda79cd1d591/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/emobilis/.gradle/caches/transforms-4/b028a3163d42823dd3b5eda79cd1d591/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] /home/emobilis/.gradle/caches/transforms-4/b6e1aaa15c3cbc80c4dc20d606ba0b9c/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/emobilis/.gradle/caches/transforms-4/b6e1aaa15c3cbc80c4dc20d606ba0b9c/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/emobilis/.gradle/caches/transforms-4/b019a15be3d5c704c1a12f8b54501909/transformed/jetified-core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/emobilis/.gradle/caches/transforms-4/b019a15be3d5c704c1a12f8b54501909/transformed/jetified-core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/emobilis/.gradle/caches/transforms-4/030c780a3c389d198b1acc4f7d1735b8/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/emobilis/.gradle/caches/transforms-4/030c780a3c389d198b1acc4f7d1735b8/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/7072e2af142c5f1c16ee170b7395139e/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/7072e2af142c5f1c16ee170b7395139e/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/b975e90584295f8c4478355306ee23f3/transformed/jetified-runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/b975e90584295f8c4478355306ee23f3/transformed/jetified-runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/emobilis/.gradle/caches/transforms-4/5ca47c19838ec1a6f8541108e6ce33f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/emobilis/.gradle/caches/transforms-4/5ca47c19838ec1a6f8541108e6ce33f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/emobilis/.gradle/caches/transforms-4/2fdf906a3acd65abea960285bdbdc884/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/emobilis/.gradle/caches/transforms-4/2fdf906a3acd65abea960285bdbdc884/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/emobilis/.gradle/caches/transforms-4/2b9ef1ee65b7f8a756d625914504557e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/emobilis/.gradle/caches/transforms-4/2b9ef1ee65b7f8a756d625914504557e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/emobilis/.gradle/caches/transforms-4/707f944c7f93f8ec7645ea0147e6c837/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/emobilis/.gradle/caches/transforms-4/707f944c7f93f8ec7645ea0147e6c837/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/emobilis/.gradle/caches/transforms-4/f2f237b05245dcc81aacdf01f6d6b3f2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/emobilis/.gradle/caches/transforms-4/f2f237b05245dcc81aacdf01f6d6b3f2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-4/1c73dd22de73dd8f7918bea8d03454bf/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-4/1c73dd22de73dd8f7918bea8d03454bf/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/emobilis/.gradle/caches/transforms-4/5caf5d8b1d007278a140029e892058e3/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/emobilis/.gradle/caches/transforms-4/5caf5d8b1d007278a140029e892058e3/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/emobilis/.gradle/caches/transforms-4/eebd33d27a2b733fe708694078a3899e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/emobilis/.gradle/caches/transforms-4/eebd33d27a2b733fe708694078a3899e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/emobilis/.gradle/caches/transforms-4/6b9f5f848845929c9345b24c5c6aee7f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/emobilis/.gradle/caches/transforms-4/6b9f5f848845929c9345b24c5c6aee7f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/emobilis/.gradle/caches/transforms-4/420e73a77d5dd93d815487f1499ce6cf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/emobilis/.gradle/caches/transforms-4/420e73a77d5dd93d815487f1499ce6cf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /home/emobilis/.gradle/caches/transforms-4/b96728c9560929d2e01742b3a20de49b/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /home/emobilis/.gradle/caches/transforms-4/b96728c9560929d2e01742b3a20de49b/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.1] /home/emobilis/.gradle/caches/transforms-4/5d232b8036eb06b7d24449b0a0c26b9d/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/emobilis/.gradle/caches/transforms-4/5d232b8036eb06b7d24449b0a0c26b9d/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/emobilis/.gradle/caches/transforms-4/745e2c9ecddad8d02ebd65ae7987049d/transformed/jetified-ui-test-manifest-1.6.8/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/emobilis/.gradle/caches/transforms-4/745e2c9ecddad8d02ebd65ae7987049d/transformed/jetified-ui-test-manifest-1.6.8/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/emobilis/.gradle/caches/transforms-4/745e2c9ecddad8d02ebd65ae7987049d/transformed/jetified-ui-test-manifest-1.6.8/AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c871ee6f61a26a24eff9b9b26ab1401/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c871ee6f61a26a24eff9b9b26ab1401/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-4/1c73dd22de73dd8f7918bea8d03454bf/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-4/1c73dd22de73dd8f7918bea8d03454bf/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/emobilis/.gradle/caches/transforms-4/040a37787381cab95fa9543c5c06c2d5/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c871ee6f61a26a24eff9b9b26ab1401/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c871ee6f61a26a24eff9b9b26ab1401/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/emobilis/.gradle/caches/transforms-4/5c871ee6f61a26a24eff9b9b26ab1401/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/bf0c746b193e7d8bc6304fe1266ffbe6/transformed/jetified-ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/bf0c746b193e7d8bc6304fe1266ffbe6/transformed/jetified-ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/emobilis/.gradle/caches/transforms-4/bf0c746b193e7d8bc6304fe1266ffbe6/transformed/jetified-ui-tooling-release/AndroidManifest.xml:24:13-71
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.barakaplaza.rentmanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.barakaplaza.rentmanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.gradle/caches/transforms-4/77c035e7a3e57db5c13640f87fc5f7a3/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.barakaplaza.rentmanager.app-mergeDebugResources-66:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/emobilis/.gradle/caches/transforms-4/3ace096472ec922f3d28926c09b81178/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

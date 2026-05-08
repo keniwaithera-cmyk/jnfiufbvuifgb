@@ -1,0 +1,2 @@
+-keep class com.barakaplaza.rentmanager.** { *; }
+-keep class okhttp3.** { *; }

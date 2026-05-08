@@ -1,0 +1,15 @@
+package com.barakaplaza.rentmanager.navigation
+
+const val ROUTE_SPLASH          = "splash"
+const val ROUTE_BUILDING_SELECT = "building_select"
+const val ROUTE_LOGIN           = "login"
+const val ROUTE_DASHBOARD       = "dashboard"
+const val ROUTE_ADD_TENANT      = "add_tenant"
+const val ROUTE_VIEW_TENANTS    = "view_tenants"
+const val ROUTE_UPDATE_TENANT   = "update_tenant"
+const val ROUTE_HOUSES          = "houses"
+const val ROUTE_PAYMENTS        = "payments"
+const val ROUTE_PAYMENT_HISTORY = "payment_history"
+const val ROUTE_TENANT_PORTAL   = "tenant_portal"
+const val ROUTE_TENANT_REGISTER = "tenant_register"
+const val ROUTE_SUGGESTIONS     = "suggestions"
