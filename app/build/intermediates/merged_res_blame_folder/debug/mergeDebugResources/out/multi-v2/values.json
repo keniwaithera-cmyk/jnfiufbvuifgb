@@ -152,7 +152,7 @@
                     }
                 },
                 {
-                    "source": "/home/emobilis/Downloads/BARAKA-PLAZA/app/src/main/res/values/themes.xml",
+                    "source": "/home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/res/values/themes.xml",
                     "from": {
                         "startLines": "2,9",
                         "startColumns": "4,4",
@@ -224,6 +224,23 @@
                     }
                 },
                 {
+                    "source": "/home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,39",
+                        "endOffsets": "94,134"
+                    },
+                    "to": {
+                        "startLines": "657,919",
+                        "startColumns": "4,4",
+                        "startOffsets": "34697,54385",
+                        "endColumns": "43,39",
+                        "endOffsets": "34736,54420"
+                    }
+                },
+                {
                     "source": "/home/emobilis/.gradle/caches/transforms-4/b27fa33da2ae7f8563b7348d9b195098/transformed/jetified-activity-1.9.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -279,40 +296,6 @@
                     }
                 },
                 {
-                    "source": "/home/emobilis/Downloads/BARAKA-PLAZA/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,99",
-                        "endColumns": "43,39",
-                        "endOffsets": "94,134"
-                    },
-                    "to": {
-                        "startLines": "657,919",
-                        "startColumns": "4,4",
-                        "startOffsets": "34697,54385",
-                        "endColumns": "43,39",
-                        "endOffsets": "34736,54420"
-                    }
-                },
-                {
-                    "source": "/home/emobilis/Downloads/BARAKA-PLAZA/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "0",
-                        "startColumns": "11",
-                        "startOffsets": "11",
-                        "endColumns": "56",
-                        "endOffsets": "56"
-                    },
-                    "to": {
-                        "startLines": "1956",
-                        "startColumns": "4",
-                        "startOffsets": "130051",
-                        "endColumns": "49",
-                        "endOffsets": "130096"
-                    }
-                },
-                {
                     "source": "/home/emobilis/.gradle/caches/transforms-4/b019a15be3d5c704c1a12f8b54501909/transformed/jetified-core-splashscreen-1.0.1/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,32,45",
@@ -346,6 +329,23 @@
                         "startOffsets": "119148,119188,120533,120824,120879,122375,122420,122474,122530,122582,122634,122683,122744",
                         "endColumns": "39,46,42,54,46,44,53,55,51,51,48,60,49",
                         "endOffsets": "119183,119230,120571,120874,120921,122415,122469,122525,122577,122629,122678,122739,122789"
+                    }
+                },
+                {
+                    "source": "/home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "56",
+                        "endOffsets": "56"
+                    },
+                    "to": {
+                        "startLines": "1956",
+                        "startColumns": "4",
+                        "startOffsets": "130051",
+                        "endColumns": "49",
+                        "endOffsets": "130096"
                     }
                 },
                 {

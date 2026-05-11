@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:2:1-36:12
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:2:1-36:12
 MERGED from [com.google.android.material:material:1.12.0] /home/emobilis/.gradle/caches/transforms-4/67cef2770ff944a517f45419f4e7b855/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:17:1-29:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/emobilis/.gradle/caches/transforms-4/2bcd30cd47fb0bbaf12beffe9e2f6ea3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
@@ -90,60 +90,60 @@ MERGED from [androidx.print:print:1.0.0] /home/emobilis/.gradle/caches/transform
 MERGED from [androidx.exifinterface:exifinterface:1.3.7] /home/emobilis/.gradle/caches/transforms-4/b96728c9560929d2e01742b3a20de49b/transformed/exifinterface-1.3.7/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.multidex:multidex:2.0.1] /home/emobilis/.gradle/caches/transforms-4/5d232b8036eb06b7d24449b0a0c26b9d/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SEND_SMS
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.CALL_PHONE
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:6:5-69
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:6:5-69
 	android:name
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:6:22-66
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:6:22-66
 uses-permission#android.permission.USE_BIOMETRIC
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:7:5-72
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:7:5-72
 MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:24:5-72
 MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:24:5-72
 	android:name
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:7:22-69
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:7:22-69
 uses-permission#android.permission.USE_FINGERPRINT
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:8:5-74
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:8:5-74
 MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
 MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
 	android:name
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:8:22-71
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:8:22-71
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:9:5-81
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:9:22-78
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:9:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:10:5-107
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:10:5-107
 	android:maxSdkVersion
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:10:78-104
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:10:78-104
 	android:name
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:10:22-77
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:10:22-77
 uses-permission#android.permission.READ_MEDIA_IMAGES
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:11:5-76
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:11:5-76
 	android:name
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:11:22-73
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:11:22-73
 uses-feature#android.hardware.fingerprint
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:12:5-90
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:12:5-90
 	android:required
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:12:63-87
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:12:63-87
 	android:name
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:12:19-62
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:12:19-62
 application
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:14:5-35:19
-INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:14:5-35:19
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:14:5-35:19
+INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:14:5-35:19
 MERGED from [com.google.android.material:material:1.12.0] /home/emobilis/.gradle/caches/transforms-4/67cef2770ff944a517f45419f4e7b855/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /home/emobilis/.gradle/caches/transforms-4/67cef2770ff944a517f45419f4e7b855/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/emobilis/.gradle/caches/transforms-4/2bcd30cd47fb0bbaf12beffe9e2f6ea3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
@@ -165,49 +165,49 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/emobilis/.g
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-4/1c73dd22de73dd8f7918bea8d03454bf/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/emobilis/.gradle/caches/transforms-4/1c73dd22de73dd8f7918bea8d03454bf/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /home/emobilis/.gradle/caches/transforms-4/188fcbc831691023faa9e8c317f85dd3/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:19:9-35
 	android:label
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:17:9-41
 	android:roundIcon
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:18:9-54
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:18:9-54
 	android:icon
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:16:9-43
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:16:9-43
 	android:allowBackup
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:21:9-49
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:21:9-49
 	android:usesCleartextTraffic
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:20:9-44
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:20:9-44
 activity#com.barakaplaza.rentmanager.MainActivity
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:23:9-33:20
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:23:9-33:20
 	android:label
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:26:13-45
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:26:13-45
 	android:windowSoftInputMode
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:28:13-55
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:28:13-55
 	android:exported
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:25:13-36
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:25:13-36
 	android:theme
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:27:13-60
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:27:13-60
 	android:name
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:24:13-41
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:24:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:29:13-32:29
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:29:13-32:29
 action#android.intent.action.MAIN
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml:31:27-74
 uses-sdk
-INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
-INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml
+INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.12.0] /home/emobilis/.gradle/caches/transforms-4/67cef2770ff944a517f45419f4e7b855/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.12.0] /home/emobilis/.gradle/caches/transforms-4/67cef2770ff944a517f45419f4e7b855/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.biometric:biometric:1.1.0] /home/emobilis/.gradle/caches/transforms-4/21383b37f197e89f89945a16a85ee45c/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -379,9 +379,9 @@ MERGED from [androidx.exifinterface:exifinterface:1.3.7] /home/emobilis/.gradle/
 MERGED from [androidx.multidex:multidex:2.0.1] /home/emobilis/.gradle/caches/transforms-4/5d232b8036eb06b7d24449b0a0c26b9d/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.1] /home/emobilis/.gradle/caches/transforms-4/5d232b8036eb06b7d24449b0a0c26b9d/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/emobilis/Desktop/BARAKA-PLAZA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emobilis/AndroidStudioProjects/jnfiufbvuifgb/app/src/main/AndroidManifest.xml
 activity#androidx.activity.ComponentActivity
 ADDED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/emobilis/.gradle/caches/transforms-4/745e2c9ecddad8d02ebd65ae7987049d/transformed/jetified-ui-test-manifest-1.6.8/AndroidManifest.xml:23:9-25:39
 	android:exported
